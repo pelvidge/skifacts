@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	<title>Ski Europe</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" charset="utf-8">
+    <link rel="shortcut icon" href="http://cartodb.com/assets/favicon.ico" />
+  	<link href="css/bootstrap.css" rel="stylesheet">
+    <link rel="stylesheet" href="http://libs.cartocdn.com/cartodb.js/v3/themes/css/cartodb.css" />
+    <link href="http://fonts.googleapis.com/css?family=Corben:bold" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Raleway:100" rel="stylesheet" type="text/css">
+    <link href='http://fonts.googleapis.com/css?family=Alegreya+Sans' rel='stylesheet' type='text/css'>
+   <style>
+      body { background-color: #C4D7FA;}
+    </style>
+   <style>
+      html {
+        height: 100%;
+        padding: 0;
+        margin: 0;
+      }
+    </style>
+  	<style>
+      h1, h2, h3, h4, h5, h6 {
+        font-family: 'Corben', Georgia, Times, serif;
+      }
+      p, div {
+        font-family: 'Alegreya Sans', Helvetica, Arial, sans-serif;
+        color: #000000;
+      }
+      
+      .control_box {
+        border-bottom: 1px solid #999;
+        padding: 10px 10px;
+        font-family: "Helvetica", Arial;
+        font-size: 12px;
+        color: #444;
+        cursor: auto;
+      }
+
+      #map {
+        height: 440px;
+        width: 940px;
+        padding: 0px;
+        margin: 0px;
+        margin-left: 40px;
+		    border: 1px solid black;
+       }
+      #chart {
+        height: 260px;
+        padding: 0;
+        margin: 20;
+		    border: 0px solid black;
+      }
+      #reds {
+        top: 0px;
+        right: 1px;
+        padding: 0;
+        color: #F00;
+      }
+      #checkbox_france {
+        top: 0px;
+        right: 1px;
+        padding: 0;
+        background-color: #0000FF;
+      }
+      .axis path,
+      .axis line 
+      {
+          fill: none;
+        stroke: black;
+        shape-rendering: crispEdges;
+      }
+
+      .axis text {
+          font-family: sans-serif;
+          font-size: 11px;
+      }
+
+    </style>
+<!-- Latest compiled and minified JavaScript -->
+<!--<script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script> -->	
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+	<script type="text/javascript" src="d3/d3.v3.js"></script>  
+	<script>
+
+	</script>
+  </head>
+	
+  
+<body>
+<div class="container-fluid">
+<!--		<h1><a href="”#”">Ski Europe</a></h1> -->
+		
+	    <div class="container-fluid">
+			<div class="row">
+		    <div id="lhs" class="col-md-2">
+<!--	  <div id="layer_selector" class="cartodb-infobox">           // original used cartodbinfobox` class -->
+          <div class="control_box">
+      		    Filters
+              <form>
+                  <input type="checkbox" checked name="checkbox_france" id="checkbox_france"> France<br>
+                  <input type="checkbox" checked name="checkbox_austria" id="checkbox_austria" value="Y"> Austria <br>
+                  <input type="checkbox" checked name="checkbox_switzerland" id="checkbox_switzerland" value="Y" > Switzerland <br>
+                  <input type="checkbox" checked name="checkbox_italy"  id="checkbox_italy" value="Y">Italy
+              </form>
+
+              <form action="" align="left">
+                black runs : 
+                <select name="blacks" id="blacks"> 
+                  <option value="1">any</option>
+                  <option value="5">at least 5</option>
+                  <option value="10">at least 10</option>
+                  <option value="15">at least 20</option>
+                </select>
+              </form>
+
+              <form action=""  align="left">
+                <font color="#ff0000">red  runs : </font> 
+                <select name="reds" id="reds"> 
+                  <option value="1">any</option>
+                  <option value="10">at least 10</option>
+                  <option value="30">at least 30</option>
+                  <option value="50">at least 50</option>
+                </select>
+              </form>
+
+              <form action=""  align="left">
+                <font color="#000000">cross country : </font> 
+                <select name="cc" id="reds"> 
+                  <option value="1">any</option>
+                  <option value="2">at least 10km</option>
+                  <option value="3">at least 30hm</option>
+                  <option value="4">at least 50km</option>
+                </select>
+              </form>
+    				</div>
+            Chart
+            <div class="control_box">
+              <form action=""  align="left">
+               <font color="#000000">chart : </font> 
+               <select id="chart_type"> 
+                 <option value="1">vertical drop </option>
+                 <option value="2">resort_altitude</option>
+                 <option value="3">ski pass cost</option>
+                 <option value="4">runs by difficulty stacked bar</option>
+               </select>
+             </form>
+             <form action="">
+               <input type="button" value="Refresh" onclick="refresh()">
+             </form>
+    			 </div>
+          </div>
+		        <div id="map" class="col-md-8"></div>
+		        <div id="rhs" class="col-md-2">Dummy Text in the right hand column</div>
+	     	</div>
+			<div class="row">
+		        <div id="lhs2" class="col-md-2">  </div>
+		        <div id="chart" class="col-md-8"></div>
+		        <div id="rhs2" class="col-md-2">Dummy Text in the right hand column</div>
+	     	</div>
+		</div>
+	</div>
+      <script>
+
+        var subLayer
+      // create layer selector
+  
+        function refresh() {
+
+//          var whereclause = "select name, max_alt from resorts where (country = 'ZZ' "
+          var whereclause = "select * from resorts where (country = 'ZZ' "
+
+//        append selected countries
+
+          if(checkbox_france.checked) 
+            {whereclause += " or country = 'FR'";};
+
+          if(checkbox_italy.checked) 
+            {whereclause += " or country = 'IT'";};
+
+          if(checkbox_austria.checked) 
+            {whereclause += " or country = 'AU'";};
+
+          if(checkbox_switzerland.checked) 
+            {whereclause += " or country = 'SW'";};
+
+//        append selected black runs
+
+          whereclause += ") and (";
+
+          var blacks = document.getElementById("blacks");
+          switch(blacks.selectedIndex)
+            {
+              case 0:
+                whereclause += "black_runs >= 0)";
+                break;
+              case 1:
+                whereclause += "black_runs >= 5)";
+                break;
+              case 2:
+                whereclause += "black_runs >= 10)";
+                break;
+              case 3:
+                whereclause += "black_runs >= 20)";
+                break;
+              default:
+                whereclause += "black_runs >= 0)";
+            }
+
+//        append selected red runs
+
+          whereclause += " and (";
+
+          var reds = document.getElementById("reds");
+          switch(reds.selectedIndex)
+            {
+              case 0:
+                whereclause += "red_runs >= 0)";
+                break;
+              case 1:
+                whereclause += "red_runs >= 10)";
+                break;
+              case 2:
+                whereclause += "red_runs >= 30)";
+                break;
+              case 3:
+                whereclause += "red_runs >= 50)";
+                break;
+              default:
+                whereclause += "red_runs >= 0)";
+            };
+
+          subLayer.setSQL(whereclause);
+
+          // retrieve data returned by the current filter
+
+          var svg_width   = 940;
+          var svg_height  = 260;
+          var textlabels  = new Array();
+        //  var max_alt     = new Array();
+          var vertical_drop = new Array();
+          var resort_alt  = new Array();
+          var highest_elevation = 3500;
+          var lowest_elevation = 500;
+          var resort_data = {max_alt: 0,vertical: 0, name: ""};
+          var resort_data_array = new Array();
+//          var chart_range = highest_elevation - lowest_elevation;
+          var chart_range = highest_elevation;
+          var yScale = d3.scale.linear()
+                     .domain([3500, 0])
+                     .range([0, svg_height]);
+          var yAxis = d3.svg.axis()
+                        .scale(yScale)
+                        .orient("left")
+                        .ticks(5);
+          var sql = new cartodb.SQL({ user: 'pelvige' });
+          sql.execute(whereclause)
+            .done(function(data) 
+               {
+                for (var i = 0; i < data.total_rows; i++) 
+                  {
+                     textlabels[i] = data.rows[i].name;
+                     resort_data_array.push(
+                      {
+                        max_alt: data.rows[i].max_alt, 
+                        vertical: data.rows[i].vertical, 
+                        fill: "teal",
+                        name: data.rows[i].name,
+                        resort_alt: data.rows[i].resort_alt
+                      });
+                  };
+
+          // delete any previous svg elements
+
+              var bar_width = (svg_width - 40) / data.total_rows - 1;    
+              var chart_element = document.getElementById("chart");
+              if (chart_element.hasChildNodes()) 
+                {
+                  while ( chart_element.firstChild ) chart_element.removeChild( chart_element.firstChild );
+                };
+
+              var svg = d3.select("#chart")                                     // append svg placeholder element to chart
+                          .append("svg")
+                          .attr("width", svg_width)   
+                          .attr("height", svg_height); 
+    
+              var bars =svg.selectAll("rect")                                  // add a rectangle to svg for every resort 
+                           .data(resort_data_array)
+                           .enter()
+                           .append("rect")
+                           .attr("width",bar_width)
+                           .attr("x", function (d,i) { return (i * bar_width + 40)})
+                           .attr("fill", function (d,i) { return d.fill });
+
+              switch(chart_type.selectedIndex)                                // attribute the bars to deliver the requested chart type
+              {
+                case 0:                                                       // vertical drop chart default
+
+                  bars.attr("y", function (d,i) { return svg_height - d.max_alt/chart_range * svg_height })
+                      .attr("height",function (d,i) { return d.vertical/chart_range * svg_height });
+                  break;
+                  
+                case 1:
+
+                  bars.attr("y", function (d,i) { return svg_height - d.resort_alt/chart_range * svg_height })
+                      .attr("height",function (d,i) { return d.resort_alt/chart_range * svg_height });
+                  break;
+                  
+                case 2:
+                  break;
+                case 3:
+                  break;
+                default:
+              };
+
+              // bars.attr("x", function (d,i) { return (i * bar_width + 40); })
+              //     .attr("y", function (d,i) { return svg_height - d.max_alt/chart_range * svg_height })
+              //     .attr("height",function (d,i) { return d.vertical/chart_range * svg_height })
+              //     .attr("width",bar_width - 1);
+
+              var txt = svg.selectAll("text")                             // create x axis resort labels
+                           .data(textlabels)
+                           .enter()
+                           .append("text")    
+                           .text(function (d,i) {return d})
+                           .attr("x",function (d,i) {return (i * bar_width) + bar_width / 2 + 40;})
+                           .attr("y",210)
+                           .attr("font-family", "Alegreya Sans")
+                           .attr("font-size", "11px")
+              //           .attr("fill", "white")
+                           .attr("style","writing-mode: tb;");
+
+               svg.append("g")
+                  .attr("class", "axis")
+                  .attr("transform", "translate(" + 40 + ",0)")
+                  .call(yAxis);            
+            })
+          .error(function(errors) {console.log("errors:" + errors)});
+          // var sql = new cartodb.SQL( {user: 'pelvige' });
+          // console.log(sql);
+
+        };
+    
+        function createSelector(layer) {
+
+//        var $options = $('#layer_selector li');
+        // var $options = $('#layer_selector li');
+        //$options.click(function(e) {
+          // get the area of the selected layer
+          // var $li = $(e.target);
+          // var area = $li.attr('data');
+
+          // deselect all and select the clicked one
+          // $options.removeClass('selected');
+          // $li.addClass('selected');
+
+          // create query based on data from the layer
+          var query = "select * from resorts";
+
+          // if(area !== 'all') {
+          //   query = "select * from resorts where resort_alt > 5990";
+          // };
+
+          layer.setSQL(query);
+          var sql = new cartodb.SQL( {user: 'pelvige' });
+          console.log(sql);
+          ;
+        }
+  
+      function main() {
+        cartodb.createVis('map', 'http://pelvige.cartodb.com/api/v2/viz/07aa885c-74ba-11e3-8636-ab8fff5fc8f5/viz.json', {
+          tiles_loader: true,
+          center_lat: 45,
+          center_lon: 6,
+          zoom: 6
+        })
+        .done(function(vis, layers) {
+          // layer 0 is the base layer, layer 1 is cartodb layer
+          subLayer = layers[1].getSubLayer(0);
+//          createSelector(subLayer);
+          refresh();
+        })
+        .error(function(err) {
+          console.log(err);
+        });
+      } 
+      window.onload = main;
+
+      </script>
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://code.jquery.com/jquery.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+    <script src="http://libs.cartocdn.com/cartodb.js/v3/cartodb.js"></script>
+
+  </body>
+</html>

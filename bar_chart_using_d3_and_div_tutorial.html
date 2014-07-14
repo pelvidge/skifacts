@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>D3 Test</title>
+        <script type="text/javascript" src="d3/d3.v3.js"></script>
+		<style>
+			div.bar {
+			    display: inline-block;
+			    width: 20px;
+			    height: 75px;   /* We'll override this later */
+			    background-color: pink;
+				margin-right: 2px;
+				}
+		</style>
+    </head>
+    <body>
+		<div style="display: inline-block; width: 20px;height: 75px; background-color: teal;"></div>
+		<div class="bar"></div>
+		<script type="text/javascript">
+	    	var dataset = [ 5, 10, 15, 20, 25,25, 7, 5, 26, 11, 8, 25, 14, 23, 19 ];						/* data to be used as input */
+
+            d3.select("body").append("p").text("New paragraph!");		/* append a paragraph to the end of body for each value in the data input */
+
+			d3.select("body").selectAll("p")							/* select every paragraph element in body */
+              .data(dataset)											 
+              .enter()													/* for every 'extra' data element */
+              .append("p")												/* append an extra paragraph element*/
+              .text(function(d) { return d; })							/* with text value as the corresponding data element value */
+			  .style("color",function(d) {if (d > 16) {return "red";} else {return "teal";}}); /* wit a colour set as a function of the data elemnt value */
+
+		  d3.select("body").selectAll("div")							/* select every div element in body creating extra ones as required and apply bar css style to it */
+			.data(dataset)
+		    .enter()
+		    .append("div")
+		    .attr("class", "bar")
+			.style("height", function(d) {var barHeight = d * 5; return barHeight + "px";}); //Scale up by factor of 5
+         </script>
+    </body>
+</html> 

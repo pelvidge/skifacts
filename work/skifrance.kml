@@ -1,0 +1,3285 @@
+<?xml version="1.0" encoding="utf-8"?><kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>France Montagnes</name>
+    <description>Stations Francaises</description>
+    <Style id="skifrance">
+        <IconStyle>
+            <Icon>
+                <href>http://www.skifrance.fr/images/favicon.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Folder>
+
+      <name>Stations</name>
+
+      <description>Toutes les stations de montagne en France</description>
+        <Placemark>
+
+        <name>Aillons-Margeriaz</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/730027-aillons_margeriaz/">Aillons-Margeriaz</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=73'>Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/730027.gif" alt='Aillons-Margeriaz' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/730027-aillons_margeriaz/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Aillons-Margeriaz">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.081355556832742,45.61806051958484,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Alpe d'Huez</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/380001-alpe_d_huez/">Alpe d'Huez</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=38'>Isère</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/380001.gif" alt='Alpe d'Huez' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/380001-alpe_d_huez/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Alpe d'Huez">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.072501003835787,45.09204266673976,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Alpe du Grand-Serre</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/380002-alpe_du_grand_serre/">Alpe du Grand-Serre</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=38'>Isère</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/380002.gif" alt='Alpe du Grand-Serre' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/380002-alpe_du_grand_serre/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Alpe du Grand-Serre">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>5.861391577180393,45.02587688359274,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Areches Beaufort</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/730002-areches_beaufort/">Areches Beaufort</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=73'>Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/730002.gif" alt='Areches Beaufort' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/730002-areches_beaufort/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Areches Beaufort">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.567802470890822,45.68673868423851,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Auris en Oisans</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/380003-auris_en_oisans/">Auris en Oisans</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=38'>Isère</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/380003.gif" alt='Auris en Oisans' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/380003-auris_en_oisans/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Auris en Oisans">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.078486442565918,45.05536396992896,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Auron</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/60001-auron/">Auron</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=7&amp;Itemid=4'>Alpes du sud</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=7&amp;Itemid=4&amp;dept=6'>Alpes-Maritimes</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/060001.gif" alt='Auron' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/60001-auron/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Auron">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.933513102791736,44.22622234619493,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Aussois</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/730003-aussois/">Aussois</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=73'>Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/730003.gif" alt='Aussois' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/730003-aussois/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Aussois">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.74263603782874,45.22740956035695,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Autrans</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/380004-autrans/">Autrans</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=38'>Isère</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/380004.gif" alt='Autrans' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/380004-autrans/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Autrans">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>5.544023075449457,45.17658522466165,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Avoriaz 1800</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/740002-avoriaz_1800/">Avoriaz 1800</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=74'>Haute-Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/740002.gif" alt='Avoriaz 1800' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/740002-avoriaz_1800/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Avoriaz 1800">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.7730583305874,46.19442469661119,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Ax les Thermes</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/90002-ax_les_thermes/">Ax les Thermes</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=4&amp;Itemid=7'>Pyrénées</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=4&amp;Itemid=7&amp;dept=9'>Ariège</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/090002.gif" alt='Ax les Thermes' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/90002-ax_les_thermes/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Ax les Thermes">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>1.83898663931405,42.72115624139949,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Bessans Val d'Arc,</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/730004-bessans_val_d_arc_/">Bessans Val d'Arc,</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=73'>Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/730004.gif" alt='Bessans Val d'Arc,' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/730004-bessans_val_d_arc_/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Bessans Val d'Arc,">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.993696912566557,45.31974235602448,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Besse Super Besse</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/630000-besse_super_besse/">Besse Super Besse</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=2&amp;Itemid=5'>Auvergne</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=2&amp;Itemid=5&amp;dept=63'>Puy de Dome</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/630000.gif" alt='Besse Super Besse' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/630000-besse_super_besse/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Besse Super Besse">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>2.859924023298293,45.50821121680629,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Beuil les Launes</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/60004-beuil_les_launes/">Beuil les Launes</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=7&amp;Itemid=4'>Alpes du sud</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=7&amp;Itemid=4&amp;dept=6'>Alpes-Maritimes</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/060004.gif" alt='Beuil les Launes' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/60004-beuil_les_launes/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Beuil les Launes">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.965741936418976,44.08994388133701,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Bonneval sur Arc</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/730005-bonneval_sur_arc/">Bonneval sur Arc</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=73'>Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/730005.gif" alt='Bonneval sur Arc' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/730005-bonneval_sur_arc/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Bonneval sur Arc">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>7.046884013211796,45.37174660302349,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Briançon</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/50004-brian_on/">Briançon</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=7&amp;Itemid=4'>Alpes du sud</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=7&amp;Itemid=4&amp;dept=5'>Hautes-Alpes</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/050004.gif" alt='Briançon' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/50004-brian_on/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Briançon">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.634853060754936,44.89673121687942,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Brides les Bains</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/730007-brides_les_bains/">Brides les Bains</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=73'>Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/730007.gif" alt='Brides les Bains' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/730007-brides_les_bains/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Brides les Bains">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.566469213877125,45.45249094228471,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Chamonix Mont-Blanc</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/740006-chamonix_mont_blanc/">Chamonix Mont-Blanc</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=74'>Haute-Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/740006.gif" alt='Chamonix Mont-Blanc' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/740006-chamonix_mont_blanc/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Chamonix Mont-Blanc">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.869939043554239,45.92201524873708,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Champagny en Vanoise</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/730009-champagny_en_vanoise/">Champagny en Vanoise</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=73'>Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/730009.gif" alt='Champagny en Vanoise' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/730009-champagny_en_vanoise/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Champagny en Vanoise">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.695278112159106,45.45472851715216,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Chamrousse</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/380005-chamrousse/">Chamrousse</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=38'>Isère</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/380005.gif" alt='Chamrousse' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/380005-chamrousse/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Chamrousse">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>5.877107763246641,45.12548556032123,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Chatel</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/740007-chatel/">Chatel</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=74'>Haute-Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/740007.gif" alt='Chatel' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/740007-chatel/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Chatel">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.840874985293348,46.26767349057492,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Combloux</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/740009-combloux/">Combloux</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=74'>Haute-Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/740009.gif" alt='Combloux' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/740009-combloux/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Combloux">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.641612200412508,45.89558770432598,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Courchevel</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/730010-courchevel/">Courchevel</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=73'>Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/730010.gif" alt='Courchevel' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/730010-courchevel/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Courchevel">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.636007374571688,45.41510258021469,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Crest Voland Cohennoz</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/730070-crest_voland_cohennoz/">Crest Voland Cohennoz</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=73'>Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/http://www.skifrance.fr/images/logosStations/730070.gif" alt='Crest Voland Cohennoz' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/730070-crest_voland_cohennoz/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Crest Voland Cohennoz">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.505337355318011,45.79499589391488,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Devoluy</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/50028-devoluy/">Devoluy</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=7&amp;Itemid=4'>Alpes du sud</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=7&amp;Itemid=4&amp;dept=5'>Hautes-Alpes</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/050028.gif" alt='Devoluy' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/50028-devoluy/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Devoluy">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>5.881771698860441,44.69389937837673,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Flaine</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/740012-flaine/">Flaine</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=74'>Haute-Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/740012.gif" alt='Flaine' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/740012-flaine/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Flaine">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.693044967766149,46.0059367304165,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Font Romeu</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/660011-font_romeu/">Font Romeu</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=4&amp;Itemid=7'>Pyrénées</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=4&amp;Itemid=7&amp;dept=66'>Pyrénées-Orientales</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/660011.gif" alt='Font Romeu' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/660011-font_romeu/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Font Romeu">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>2.043621733025537,42.50283557662364,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Gérardmer</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/880003-gerardmer/">Gérardmer</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=6&amp;Itemid=9'>Vosges</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=6&amp;Itemid=9&amp;dept=88'>Vosges</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/880003.gif" alt='Gérardmer' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/880003-gerardmer/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Gérardmer">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.877181755227429,48.07263315315148,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Guzet</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/90007-guzet/">Guzet</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=4&amp;Itemid=7'>Pyrénées</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=4&amp;Itemid=7&amp;dept=9'>Ariège</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/090007.gif" alt='Guzet' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/90007-guzet/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Guzet">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>1.2988758087158203,42.78670863426504,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Isola 2000</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/60010-isola_2000/">Isola 2000</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=7&amp;Itemid=4'>Alpes du sud</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=7&amp;Itemid=4&amp;dept=6'>Alpes-Maritimes</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/060010.gif" alt='Isola 2000' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/60010-isola_2000/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Isola 2000">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>7.156487703323364,44.185719983087154,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>La Bresse Hohneck</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/880004-la_bresse_hohneck/">La Bresse Hohneck</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=6&amp;Itemid=9'>Vosges</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=6&amp;Itemid=9&amp;dept=88'>Vosges</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/880004.gif" alt='La Bresse Hohneck' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/880004-la_bresse_hohneck/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=La Bresse Hohneck">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.867577817642895,47.99979367107318,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>La Clusaz</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/740014-la_clusaz/">La Clusaz</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=74'>Haute-Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/740014.gif" alt='La Clusaz' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/740014-la_clusaz/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=La Clusaz">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.428352830700775,45.90626767211177,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>La Mongie</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/650008-la_mongie/">La Mongie</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=4&amp;Itemid=7'>Pyrénées</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=4&amp;Itemid=7&amp;dept=65'>Hautes-Pyrénées</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/650008.gif" alt='La Mongie' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/650008-la_mongie/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=La Mongie">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>0.1794002610939743,42.90988279447756,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>La Norma</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/730015-la_norma/">La Norma</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=73'>Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/730015.gif" alt='La Norma' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/730015-la_norma/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=La Norma">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.699371785566279,45.20023860481577,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>La Plagne</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/730016-la_plagne/">La Plagne</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=73'>Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/730016.gif" alt='La Plagne' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/730016-la_plagne/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=La Plagne">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.67177434850116,45.50707891262736,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>La Rosière</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/730017-la_rosiere/">La Rosière</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=73'>Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/730017.gif" alt='La Rosière' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/730017-la_rosiere/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=La Rosière">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.8547821044921875,45.626283736224586,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>La Tania</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/730018-la_tania/">La Tania</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=73'>Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/730018.gif" alt='La Tania' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/730018-la_tania/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=La Tania">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.595862732994696,45.43099896097111,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>La Toussuire</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/730019-la_toussuire/">La Toussuire</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=73'>Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/730019.gif" alt='La Toussuire' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/730019-la_toussuire/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=La Toussuire">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.261761892882112,45.25652229486733,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Le Corbier</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/730021-le_corbier/">Le Corbier</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=73'>Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/730021.gif" alt='Le Corbier' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/730021-le_corbier/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Le Corbier">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.269678766329424,45.23912411084001,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Le Grand Bornand</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/740015-le_grand_bornand/">Le Grand Bornand</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=74'>Haute-Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/740015.gif" alt='Le Grand Bornand' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/740015-le_grand_bornand/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Le Grand Bornand">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.42771598882485,45.94215200305199,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Le Lac Blanc</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/680002-le_lac_blanc/">Le Lac Blanc</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=6&amp;Itemid=9'>Vosges</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=6&amp;Itemid=9&amp;dept=68'>Haut-Rhin</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/680002.gif" alt='Le Lac Blanc' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/680002-le_lac_blanc/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Le Lac Blanc">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>7.092145290906379,48.13475778231072,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Le Lioran</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/150004-le_lioran/">Le Lioran</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=2&amp;Itemid=5'>Auvergne</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=2&amp;Itemid=5&amp;dept=15'>Cantal</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/150004.gif" alt='Le Lioran' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/150004-le_lioran/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Le Lioran">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>2.747394142876519,45.0888740878431,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Le Mont-Dore</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/630008-le_mont_dore/">Le Mont-Dore</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=2&amp;Itemid=5'>Auvergne</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=2&amp;Itemid=5&amp;dept=63'>Puy de Dome</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/630008.gif" alt='Le Mont-Dore' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/630008-le_mont_dore/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Le Mont-Dore">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>2.803159876345683,45.57554976372203,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Les 2 Alpes</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/380019-les_2_alpes/">Les 2 Alpes</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=38'>Isère</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/380019.gif" alt='Les 2 Alpes' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/380019-les_2_alpes/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Les 2 Alpes">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.121800816332494,45.00755216296904,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Les 7 Laux</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/380020-les_7_laux/">Les 7 Laux</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=38'>Isère</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/380020.gif" alt='Les 7 Laux' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/380020-les_7_laux/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Les 7 Laux">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>5.9854888916015625,45.25241334275755,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Les Angles</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/660013-les_angles/">Les Angles</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=4&amp;Itemid=7'>Pyrénées</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=4&amp;Itemid=7&amp;dept=66'>Pyrénées-Orientales</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/660013.gif" alt='Les Angles' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/660013-les_angles/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Les Angles">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>2.079078309183452,42.58036181746549,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Les Arcs Bourg-Saint-Maurice</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/730028-les_arcs_bourg_saint_maurice/">Les Arcs Bourg-Saint-Maurice</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=73'>Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/730028.gif" alt='Les Arcs Bourg-Saint-Maurice' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/730028-les_arcs_bourg_saint_maurice/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Les Arcs Bourg-Saint-Maurice">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.7888641357421875,45.57968541219265,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Les Carroz d'Araches</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/740018-les_carroz_d_araches/">Les Carroz d'Araches</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=74'>Haute-Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/740018.gif" alt='Les Carroz d'Araches' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/740018-les_carroz_d_araches/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Les Carroz d'Araches">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.637937031155338,46.02576790422488,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Les Contamines Montjoie</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/740019-les_contamines_montjoie/">Les Contamines Montjoie</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=74'>Haute-Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/740019.gif" alt='Les Contamines Montjoie' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/740019-les_contamines_montjoie/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Les Contamines Montjoie">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.730492980929549,45.82109752188686,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Les Gets</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/740020-les_gets/">Les Gets</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=74'>Haute-Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/740020.gif" alt='Les Gets' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/740020-les_gets/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Les Gets">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.669990322305836,46.15910319493956,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Les Houches</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/740022-les_houches/">Les Houches</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=74'>Haute-Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/740022.gif" alt='Les Houches' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/740022-les_houches/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Les Houches">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.811760550188779,45.89257275850194,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Les Karellis</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/730029-les_karellis/">Les Karellis</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=73'>Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/730029.gif" alt='Les Karellis' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/730029-les_karellis/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Les Karellis">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.406376138942949,45.22778021760861,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Les Menuires</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/730030-les_menuires/">Les Menuires</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=73'>Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/730030.gif" alt='Les Menuires' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/730030-les_menuires/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Les Menuires">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.537571184598304,45.32293001253774,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Les Orres</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/50016-les_orres/">Les Orres</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=7&amp;Itemid=4'>Alpes du sud</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=7&amp;Itemid=4&amp;dept=5'>Hautes-Alpes</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/050016.gif" alt='Les Orres' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/50016-les_orres/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Les Orres">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.549238008506697,44.51398853192465,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Les Saisies</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/730031-les_saisies/">Les Saisies</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=73'>Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/730031.gif" alt='Les Saisies' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/730031-les_saisies/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Les Saisies">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.539449457628861,45.75706550378015,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Méaudre</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/380023-meaudre/">Méaudre</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=38'>Isère</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/380023.gif" alt='Méaudre' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/380023-meaudre/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Méaudre">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>5.527561073719778,45.12675171638687,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Megève</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/740024-megeve/">Megève</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=74'>Haute-Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/740024.gif" alt='Megève' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/740024-megeve/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Megève">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.618080079073426,45.85684258145223,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Méribel</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/730032-meribel/">Méribel</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=73'>Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/730032.gif" alt='Méribel' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/730032-meribel/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Méribel">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.566566013543544,45.41739891779584,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Métabief</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/250007-metabief/">Métabief</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=3&amp;Itemid=6'>Jura</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=3&amp;Itemid=6&amp;dept=25'>Doubs</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/250007.gif" alt='Métabief' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/250007-metabief/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Métabief">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.351821925494606,46.77370486149114,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Montchavin les Coches</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/730034-montchavin_les_coches/">Montchavin les Coches</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=73'>Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/730034.gif" alt='Montchavin les Coches' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/730034-montchavin_les_coches/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Montchavin les Coches">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.735150925459763,45.56007175879321,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Montgenèvre</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/50018-montgenevre/">Montgenèvre</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=7&amp;Itemid=4'>Alpes du sud</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=7&amp;Itemid=4&amp;dept=5'>Hautes-Alpes</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/050018.gif" alt='Montgenèvre' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/50018-montgenevre/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Montgenèvre">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.72252427925597,44.93205250236745,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Monts Jura</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/10012-monts_jura/">Monts Jura</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=3&amp;Itemid=6'>Jura</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=3&amp;Itemid=6&amp;dept=1'>Ain</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/010012.gif" alt='Monts Jura' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/10012-monts_jura/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Monts Jura">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>5.935087653109771,46.2664924799731,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Morillon</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/740027-morillon/">Morillon</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=74'>Haute-Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/740027.gif" alt='Morillon' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/740027-morillon/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Morillon">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.676215048891309,46.08372561273121,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Morzine</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/740028-morzine/">Morzine</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=74'>Haute-Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/740028.gif" alt='Morzine' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/740028-morzine/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Morzine">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.709051001381223,46.17904957800553,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Notre Dame de Bellecombe</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/730036-notre_dame_de_bellecombe/">Notre Dame de Bellecombe</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=73'>Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/730036.gif" alt='Notre Dame de Bellecombe' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/730036-notre_dame_de_bellecombe/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Notre Dame de Bellecombe">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.517835129041763,45.80844898779442,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Orcières 1850</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/50020-orcieres_1850/">Orcières 1850</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=7&amp;Itemid=4'>Alpes du sud</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=7&amp;Itemid=4&amp;dept=5'>Hautes-Alpes</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/050020.gif" alt='Orcières 1850' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/50020-orcieres_1850/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Orcières 1850">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.323000,44.697300,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Oz en Oisans</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/380024-oz_en_oisans/">Oz en Oisans</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=38'>Isère</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/380024.gif" alt='Oz en Oisans' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/380024-oz_en_oisans/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Oz en Oisans">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.070649814677355,45.12804420338314,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Peisey Vallandry</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/730037-peisey_vallandry/">Peisey Vallandry</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=73'>Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/730037.gif" alt='Peisey Vallandry' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/730037-peisey_vallandry/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Peisey Vallandry">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.763613095195351,45.55323341141257,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Peyragudes</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/650020-peyragudes/">Peyragudes</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=4&amp;Itemid=7'>Pyrénées</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=4&amp;Itemid=7&amp;dept=31'>Haute-Garonne</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/650020.gif" alt='Peyragudes' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/650020-peyragudes/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Peyragudes">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>0.4772698662852818,42.78810129194827,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Pralognan la Vanoise</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/730038-pralognan_la_vanoise/">Pralognan la Vanoise</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=73'>Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/730038.gif" alt='Pralognan la Vanoise' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/730038-pralognan_la_vanoise/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Pralognan la Vanoise">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.72165083313985,45.38114321929881,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Praloup</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/40011-praloup/">Praloup</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=7&amp;Itemid=4'>Alpes du sud</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=7&amp;Itemid=4&amp;dept=4'>Alpes-de-Haute-Provence</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/040011.gif" alt='Praloup' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/40011-praloup/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Praloup">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.605072892133349,44.36991009847291,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Praz de Lys Sommand</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/740032-praz_de_lys_sommand/">Praz de Lys Sommand</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=74'>Haute-Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/740032.gif" alt='Praz de Lys Sommand' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/740032-praz_de_lys_sommand/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Praz de Lys Sommand">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.594162965585872,46.14920870204774,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Praz sur Arly</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/740033-praz_sur_arly/">Praz sur Arly</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=74'>Haute-Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/740033.gif" alt='Praz sur Arly' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/740033-praz_sur_arly/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Praz sur Arly">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.570471651098281,45.83762111324778,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Puy Saint-Vincent</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/50022-puy_saint_vincent/">Puy Saint-Vincent</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=7&amp;Itemid=4'>Alpes du sud</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=7&amp;Itemid=4&amp;dept=5'>Hautes-Alpes</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/050022.gif" alt='Puy Saint-Vincent' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/50022-puy_saint_vincent/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Puy Saint-Vincent">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.486249061146128,44.83115504043275,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Risoul</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/50024-risoul/">Risoul</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=7&amp;Itemid=4'>Alpes du sud</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=7&amp;Itemid=4&amp;dept=5'>Hautes-Alpes</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/050024.gif" alt='Risoul' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/50024-risoul/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Risoul">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.6371402761664,44.64874885109325,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Saint François Longchamp</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/730040-saint_fran_ois_longchamp/">Saint François Longchamp</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=73'>Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/730040.gif" alt='Saint François Longchamp' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/730040-saint_fran_ois_longchamp/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Saint François Longchamp">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.349123766995771,45.40991549073113,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Saint Gervais Mont-Blanc</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/740034-saint_gervais_mont_blanc/">Saint Gervais Mont-Blanc</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=74'>Haute-Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/740034.gif" alt='Saint Gervais Mont-Blanc' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/740034-saint_gervais_mont_blanc/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Saint Gervais Mont-Blanc">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.698960701776126,45.88954093441697,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Saint Jean Montclar</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/40020-saint_jean_montclar/">Saint Jean Montclar</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=7&amp;Itemid=4'>Alpes du sud</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=7&amp;Itemid=4&amp;dept=4'>Alpes-de-Haute-Provence</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/040020.gif" alt='Saint Jean Montclar' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/40020-saint_jean_montclar/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Saint Jean Montclar">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.350338788686273,44.4103905829884,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Saint Lary Soulan</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/650013-saint_lary_soulan/">Saint Lary Soulan</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=4&amp;Itemid=7'>Pyrénées</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=4&amp;Itemid=7&amp;dept=65'>Hautes-Pyrénées</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/650013.gif" alt='Saint Lary Soulan' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/650013-saint_lary_soulan/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Saint Lary Soulan">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>0.3242052637887946,42.8186620634295,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Saint Martin de Belleville</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/730042-saint_martin_de_belleville/">Saint Martin de Belleville</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=73'>Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/730042.gif" alt='Saint Martin de Belleville' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/730042-saint_martin_de_belleville/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Saint Martin de Belleville">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.504800318315193,45.37979812838191,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Saint Maurice sur Moselle</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/880008-saint_maurice_sur_moselle/">Saint Maurice sur Moselle</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=6&amp;Itemid=9'>Vosges</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=6&amp;Itemid=9&amp;dept=88'>Vosges</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/880008.gif" alt='Saint Maurice sur Moselle' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/880008-saint_maurice_sur_moselle/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Saint Maurice sur Moselle">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.827429929752479,47.85991605030375,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Saint Pierre de Chartreuse</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/380032-saint_pierre_de_chartreuse/">Saint Pierre de Chartreuse</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=38'>Isère</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/380032.gif" alt='Saint Pierre de Chartreuse' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/380032-saint_pierre_de_chartreuse/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Saint Pierre de Chartreuse">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>5.815553624670105,45.34290700514784,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Saint Sorlin d'Arves</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/730043-saint_sorlin_d_arves/">Saint Sorlin d'Arves</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=73'>Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/730043.gif" alt='Saint Sorlin d'Arves' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/730043-saint_sorlin_d_arves/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Saint Sorlin d'Arves">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.232912794467469,45.22147405748686,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Sainte Foy Tarentaise</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/730044-sainte_foy_tarentaise/">Sainte Foy Tarentaise</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=73'>Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/730044.gif" alt='Sainte Foy Tarentaise' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/730044-sainte_foy_tarentaise/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Sainte Foy Tarentaise">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.897525787353516,45.59362092585805,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Samoens</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/740038-samoens/">Samoens</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=74'>Haute-Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/740038.gif" alt='Samoens' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/740038-samoens/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Samoens">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.727627339446129,46.08230416384458,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Sauze Supersauze</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/60020-sauze_supersauze/">Sauze Supersauze</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=7&amp;Itemid=4'>Alpes du sud</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=7&amp;Itemid=4&amp;dept=4'>Alpes-de-Haute-Provence</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/060020.gif" alt='Sauze Supersauze' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/60020-sauze_supersauze/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Sauze Supersauze">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.685374141532218,44.35789899162029,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Serre Chevalier</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/50027-serre_chevalier/">Serre Chevalier</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=7&amp;Itemid=4'>Alpes du sud</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=7&amp;Itemid=4&amp;dept=5'>Hautes-Alpes</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/050027.gif" alt='Serre Chevalier' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/50027-serre_chevalier/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Serre Chevalier">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.557464599609375,44.945786685971406,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Tholllon les Memises</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/740044-tholllon_les_memises/">Tholllon les Memises</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=74'>Haute-Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/740044.gif" alt='Tholllon les Memises' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/740044-tholllon_les_memises/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Tholllon les Memises">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.713176936478192,46.39003449586651,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Tignes</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/730049-tignes/">Tignes</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=73'>Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/730049.gif" alt='Tignes' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/730049-tignes/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Tignes">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.9069671630859375,45.4721697741884,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Val Cenis Vanoise</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/730050-val_cenis_vanoise/">Val Cenis Vanoise</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=73'>Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/730050.gif" alt='Val Cenis Vanoise' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/730050-val_cenis_vanoise/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Val Cenis Vanoise">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.882770011176185,45.28556204231732,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Val d'Allos - La Foux</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/40017-val_d_allos___la_foux/">Val d'Allos - La Foux</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=7&amp;Itemid=4'>Alpes du sud</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=7&amp;Itemid=4&amp;dept=4'>Alpes-de-Haute-Provence</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/040017.gif" alt='Val d'Allos - La Foux' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/40017-val_d_allos___la_foux/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Val d'Allos - La Foux">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.570707891555378,44.29033884865258,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Val d'Allos - Le Seignus</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/40016-val_d_allos___le_seignus/">Val d'Allos - Le Seignus</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=7&amp;Itemid=4'>Alpes du sud</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=7&amp;Itemid=4&amp;dept=4'>Alpes-de-Haute-Provence</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/040016.gif" alt='Val d'Allos - Le Seignus' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/40016-val_d_allos___le_seignus/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Val d'Allos - Le Seignus">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.616908612307876,44.2411228366746,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Val d'Isère</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/730051-val_d_isere/">Val d'Isère</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=73'>Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/730051.gif" alt='Val d'Isère' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/730051-val_d_isere/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Val d'Isère">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.980345858468241,45.4487253996765,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Val Thorens</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/730052-val_thorens/">Val Thorens</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=73'>Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/730052.gif" alt='Val Thorens' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/730052-val_thorens/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Val Thorens">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.581025211912557,45.29796735545279,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Valberg</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/60023-valberg/">Valberg</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=7&amp;Itemid=4'>Alpes du sud</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=7&amp;Itemid=4&amp;dept=6'>Alpes-Maritimes</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/060023.gif" alt='Valberg' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/60023-valberg/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Valberg">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.928692176356803,44.0975259520597,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Valfrejus</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/730053-valfrejus/">Valfrejus</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=73'>Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/730053.gif" alt='Valfrejus' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/730053-valfrejus/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Valfrejus">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.652659094527916,45.17405342172363,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Valloire</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/730054-valloire/">Valloire</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=73'>Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/730054.gif" alt='Valloire' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/730054-valloire/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Valloire">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.428727904117258,45.16548573249031,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Valmeinier</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/730055-valmeinier/">Valmeinier</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=73'>Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/730055.gif" alt='Valmeinier' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/730055-valmeinier/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Valmeinier">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.481066826958299,45.18441481894469,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Valmorel</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/730056-valmorel/">Valmorel</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=73'>Savoie</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/730056.gif" alt='Valmorel' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/730056-valmorel/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Valmorel">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.442443486307343,45.46170469056099,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Vars</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/50032-vars/">Vars</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=7&amp;Itemid=4'>Alpes du sud</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=7&amp;Itemid=4&amp;dept=5'>Hautes-Alpes</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/050032.gif" alt='Vars' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/50032-vars/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Vars">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.692813086298449,44.60195175590389,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Vaujany</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/380034-vaujany/">Vaujany</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=38'>Isère</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/380034.gif" alt='Vaujany' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/380034-vaujany/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Vaujany">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.07888965334651,45.15858881818026,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Ventron</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/880009-ventron/">Ventron</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=6&amp;Itemid=9'>Vosges</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=6&amp;Itemid=9&amp;dept=88'>Vosges</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/880009.gif" alt='Ventron' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/880009-ventron/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Ventron">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>6.871603063253431,47.9403955084705,0.000000</coordinates></Point>
+    </Placemark>
+        <Placemark>
+
+        <name>Villard de Lans / Corrençon</name>
+
+        <description>
+        <![CDATA[
+        <table style='width:350px'>
+        <tr><td>
+        <b><a href="http://www.france-montagnes.com//station/380036-villard_de_lans___corren_on/">Villard de Lans / Corrençon</a></b><br />
+        <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2'>Alpes du nord</a> &gt; <a href='http://www.france-montagnes.com/index.php?option=com_gmap&amp;massif=1&amp;Itemid=2&amp;dept=38'>Isère</a>        </td>
+        <td><img src="http://www.skifrance.fr/images/logosStations/380036.gif" alt='Villard de Lans / Corrençon' /></td>
+        </tr>
+        </table>
+
+<center>
+
+
+
+
+
+</center>
+<br />
+<a href="http://www.france-montagnes.com//station/380036-villard_de_lans___corren_on/&task=webcams">Webcams</a> | 
+<a href="http://www.france-montagnes.com/index.php?option=com_recherche&Itemid=20&Itemid=20&searchtype=bp&q=Villard de Lans / Corrençon">Bons plans</a>
+<hr />
+    <div style="text-align:right"><a href="http://www.france-montagnes.com/"><img src="http://www.france-montagnes.com/images/logos/logo_fm.png" border="0" /></a></div>
+
+        ]]></description>
+
+        <styleUrl>#skifrance</styleUrl>
+        <Point><coordinates>5.556744029204588,45.04662301883992,0.000000</coordinates></Point>
+    </Placemark>
+        </Folder>
+</Document>
+</kml>
+
+    

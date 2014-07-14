@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ski Facts</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" charset="utf-8">
+    <meta name="copyright" content=" Peter Elvidge 2014 All rights reserved "> 
+  <meta name="author" content=" Peter Elvidge "> 
+  <meta name="revisit-after" content="10 Days"> 
+  <meta name="description" content=" Ski Facts - filter and compare ski resorts by number and type of runs "> 
+  <meta name="keywords" content=" ski, skiing, snowboard, snowboarding, resort, resorts, france, italy, austria, switzerland, run, piste, black, red, blue, green, cross country,  choose, select, filter, visualise, visualize, compare, data, statistics, star rating, best">
+    <link rel="shortcut icon" href="http://cartodb.com/assets/favicon.ico" />
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="starter-template.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Nunito:700' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Nunito:300' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Lato:100' rel='stylesheet' type='text/css'>
+
+    <!-- Just for debugging purposes. Don't actually copy this line! -->
+    <!--[if lt IE 9]><script src="../../docs-assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+  <style type="text/css">
+
+  body 
+  {
+     background-color: #FAF4C4;
+  }
+
+  #main_row 
+  {
+     background-image: url("images/skilift_l.jpg");
+     background-repeat:no-repeat;
+     border-color: #080808;
+     width:100%;
+     height:457px;
+     margin-top: -19px;
+     position:absolute;
+  }
+
+
+  #bottom_row 
+  {
+     width:100%;
+     height:457px;
+     margin-top: 400px;
+     position:absolute;
+  }
+
+	#header_row 
+	{
+  	 background-color: #999;
+  	 border-color: #080808;
+  	 height: 45px;
+  	 width:100%;
+     margin-top: 0px;
+     vertical-align: middle;
+     line-height: 0px;
+	}
+
+
+  #ads_top_right {
+        top:3px;
+        margin-left: 0px;
+        }
+
+	img 
+	{
+  	 vertical-align: top;
+	}
+
+  .header_large
+  {
+    font-family: 'Lato', Georgia, Times, serif;
+    font-size: 64px;
+    line-height: 25px;
+    color: #fff;
+  }
+
+  .header_norm
+  {
+    font-family: 'Lato', Georgia, Times, serif;
+    font-size: 22px;
+    line-height: 25px;
+    color: #fff;
+    text-shadow: 1px 1px 3px #666;
+  }
+
+  .normal
+  {
+    font-family: 'Nunito' Georgia, Times, serif;
+    font-size: 18px;
+    line-height: 20px;
+    color: #555;
+  }
+
+  .normal_delete_later
+  {
+    font-family: 'Nunito', Georgia, Times, serif;
+    font-size: 15px;
+    line-height: 15px;
+    color: #487D91;
+  }
+
+	.navbar-inverse 
+	{
+  	 background-color: #999;
+  	 border-color: #080808;
+  	 height: 92px;
+	}
+
+	.navbar-inverse .navbar-collapse,
+	.navbar-inverse .navbar-form 
+	{
+	 border-color: #999;
+	}
+}
+</style>
+</head>
+<body>
+  <div class="container-fluid">
+
+    <div class="col-xs-12" id="header_row">
+   	 	<div class="col-xs-6" valign="middle" ><a href="index.html"><span class="header_norm">Home</span></a></div>
+   		<div class="col-xs-6" align = "right">
+        <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.skifacts.net/ski_resort_charts.html" data-text="Check skifacts.net. Visualisation and comparison of European ski resorts" data-via="PeteElvidge">Tweet</a>
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+      
+        <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.skifacts.net%2Fski_resort_charts.html&amp;width=100&amp;layout=button_count&amp;action=like&amp;show_faces=true&amp;share=false&amp;height=21&amp;appId=378747535548886" scrolling="no" frameborder="0" style="border:none; overflow:hidden;               width:100px; height:21px;" allowTransparency="true"></iframe> 
+      </div>
+   	</div>
+    <br>
+
+    <div class="col-xs-12" id="main_row">
+	   	<div class="row">
+	      <br>
+	      <div class="col-xs-3"> <span class="header_large" align="left">SKI FACTS</span></div>
+	      <div class="col-xs-9" align="left">
+          <br><span class="normal">! SkiFacts provides a combination of mapping and data charts to help skiers and snowboarders choose a European ski resort</span>
+          <br><br><span class="normal">! Piste and resort data on 130 of Europe's most popular ski reosrts</span>
+          <br><br><span class="normal">! Filter and sort your data to home in on the best resort for your needs</span>
+          <br><br><span class="normal">! Compare piste statistics on dozens of resorts side by side</span>
+          <br><br><span class="normal">! Discover which resorts are at the highest altitude, or which has the greatest vertical descent</span>
+          <br><br><span class="normal">! SkiFacts is a mapping and data visualisation project by <a href="www.elvidge.org.uk"><span class="normal">Peter Elvidge </a> built using Bootstrap, D3 javascript library, and CartoDB</span></a>
+          <br><br><span class="normal">! <a href="ski_resort_charts.html?verticaldrop"><span class="normal">Try it now </span></a>
+          <br><br><span class="normal">! Suggestions for improvement, bugs to reports ? drop me a line here : <a href="mailto:pete@elvidge.org.uk"><span class="normal">pete@elvidge.org.uk </a></span></a>
+        </div>
+        </div>
+      </div>
+	</div>
+
+  </div> <!-- /.container -->
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+  </body>
+</html>

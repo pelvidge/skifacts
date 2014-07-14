@@ -1,0 +1,747 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	<title>Ski Facts</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" charset="utf-8">
+    <meta name="copyright" content=" Peter Elvidge 2014 All rights reserved "> 
+    <meta name="author" content=" Peter Elvidge "> 
+    <meta name="revisit-after" content="10 Days"> 
+    <meta name="description" content=" Ski Facts - filter and compare ski resorts by number and type of runs "> 
+    <meta name="keywords" content=" ski, skiing, snowboard, snowboarding, resort, resorts, france, italy, austria, switzerland, run, piste, black, red, blue, green, cross country,  choose, select, filter, visualise, visualize, compare, data, statistics, star rating, best, nordic, downhill">
+    
+    <link rel="shortcut icon" href="http://cartodb.com/assets/favicon.ico" />
+<!--  	<link href="css/bootstrap.css" rel="stylesheet"> -->
+    <link rel="stylesheet" href="http://libs.cartocdn.com/cartodb.js/v3/themes/css/cartodb.css" />
+    <link href="http://fonts.googleapis.com/css?family=Corben:bold" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Raleway:100" rel="stylesheet" type="text/css">
+    <link href='http://fonts.googleapis.com/css?family=Alegreya+Sans' rel='stylesheet' type='text/css'>
+   <style>
+      body { background-color: #254E96;}
+    </style>
+   <style>
+      html {
+        height: 100%;
+        padding: 0;
+        margin: 0;
+      }
+    </style>
+  	<style>
+      h1, h2, h3, h4, h5, h6 {
+        font-family: 'Corben', Georgia, Times, serif;
+      }
+      p, div {
+        font-family: 'Alegreya Sans', Helvetica, Arial, sans-serif;
+        color: #ffffff;
+      }
+
+      .row 
+      {
+        border-bottom: 0px solid #fff;
+        padding: 1px 0px;
+        font-family: Alegreya Sans, Helvetica, Arial, sans-serif;
+        font-size: 15px;
+        color: #ffffff;
+        cursor: auto;
+        width: 99%;
+        background-color: #254E96;
+ 
+      }
+
+      #social_media {
+        position:absolute;
+        left:1177px;
+        top:4px;
+        padding: 2px;
+        }
+
+      #ads_top_right {
+        position:absolute;
+        left:1177px;
+        top:3px;
+        margin-left: 0px;
+        }
+
+      .col-md-2
+      {
+        padding: 0px 0px;
+        font-family: Alegreya Sans, Helvetica, Arial, sans-serif;
+        font-size: 15px;
+        color: #ffffff;
+        cursor: auto;
+        background-color: #254E96;
+      }
+
+      .col-md-8
+      {
+          padding: 1px 1px;
+        font-family: Alegreya Sans, Helvetica, Arial, sans-serif;
+        font-size: 15px;
+        color: #ffffff;
+        cursor: auto;
+        width: 990px;
+        background-color: #254E96;
+      }
+      
+      #header {
+        border-bottom: 0px solid #fff;
+        padding: 1px 1px;
+        font-family: Alegreya Sans, Helvetica, Arial, sans-serif;
+        font-size: 25px;
+        font-weight: bold;
+        color: #aaaaaa;
+        cursor: auto;
+        background-color: #254E96; 
+        position:absolute;
+        left:1px;
+        top:1px;
+      }
+      
+      #main_row {
+        border-bottom: 0px solid #fff;
+        padding: 1px 0px;
+        font-family: Alegreya Sans, Helvetica, Arial, sans-serif;
+        font-size: 15px;
+        color: #ffffff;
+        cursor: auto;
+        background-color: #254E96; 
+        position:absolute;
+        left:2px;
+        top:35px;
+      }
+      .control_box {
+        border-bottom: 1px solid #ccc;
+        padding: 2px 1px;
+        font-family: Helvetica, Arial, sans-serif;
+        font-size: 12px;
+        color: #ffffff;
+        cursor: auto;
+        width: 260px;
+      }
+
+      #map {
+        height: 380px;
+        width: 940px;
+        padding: 0px;
+        margin: 0px;
+        margin-left: 10px;
+		    border: 1px solid black;
+        position:absolute;
+        left:218px;
+        top:3px;
+       }
+      #chart {
+        height: 260px;
+        padding: 0;
+        margin: 0px;
+		    border: 0px solid black;
+        position:absolute;
+        left:188px;
+        top:418px;
+      }
+      #blacks {
+        top: 0px;
+        margin-top: 4px;
+        width: 106px;
+        right: 1px;
+        color: #000000;
+        margin-left: 30px;
+      }
+      #reds {
+        top: 0px;
+        right: 1px;
+        width: 106px;
+        margin-top: 4px;
+        color: #F00;
+        margin-left: 40px;
+      }
+      #blues {
+        top: 0px;
+        right: 1px;
+        width: 106px;
+        margin-top: 4px;
+        color: #00F;
+        margin-left: 33px;
+      }
+      #greens {
+        top: 0px;
+        right: 1px;
+        width: 106px;
+        margin-top: 4px;
+        color: #0F0;
+        margin-left: 26px;
+      }
+      #crosscountry {
+        top: 0px;
+        right: 1px;
+        width: 106px;
+        margin-top: 4px;
+        margin-left: 12px;
+      }
+      #checkbox_airports {
+        top: 0px;
+        right: 1px;
+        width: 15px;
+        margin-top: 4px;
+        margin-left: 93px;
+      }
+      #checkbox_names {
+        top: 0px;
+        right: 1px;
+        width: 15px;
+        margin-top: 0px;
+        margin-left: 93px;
+      }
+      #chart_type {
+        top: 0px;
+        right: 1px;
+        width: 106px;
+        margin-top: 4px;
+        margin-left: 56px;
+      }
+      #sort_by {
+        top: 0px;
+        right: 1px;
+        width: 106px;
+        margin-top: 4px;
+        margin-left: 47px;
+      }
+      #checkbox_france {
+        top: 0px;
+        right: 1px;
+        background-color: #0000FF;
+      }
+      .axis path,
+      .axis line 
+      {
+          fill: none;
+        stroke: white;
+        shape-rendering: crispEdges;
+      }
+      .axis text {
+          font-family: Helvetica, sans-serif;
+          font-size: 11px;
+          color: #fff;
+      }
+      .legend_austria
+      {
+        background-color: #F53136;
+        border: black;
+        width: 106px;
+        height: 10px;
+        display: inline-block;
+        border: 2px;
+        margin-left: 32px;
+      }
+      .legend_france
+      {
+        background-color: #09A2E9;
+        stroke: black;
+        width: 106px;
+        height: 10px;
+        display: inline-block;
+        border: 1px;
+        margin-left: 32px;
+      }
+      .legend_italy
+      {
+        background-color: #DDDB14;
+        stroke: black;
+        width: 106px;
+        height: 10px;
+        display: inline-block;
+        border: 1px;
+        margin-left: 49px;
+      }
+      .legend_switzerland
+      {
+        background-color: #FBECEC;
+        stroke: black;
+        width: 106px;
+        height: 9px;
+        display: inline-block;
+        border: 1px;
+        margin-left: 7px;
+      }
+      #refresh_button
+      {
+        width: 175px;
+        height: 30px;
+        margin-left: 3px;
+        margin-top: 6px;
+      }
+
+    </style>
+<!-- Latest compiled and minified JavaScript -->
+<!--<script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script> -->	
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+	<script type="text/javascript" src="d3/d3.v3.js"></script>  
+  <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBRo35MtAsVa4DJSUExf2ogDOZqkkPvSXs&sensor=true"></script>
+	
+  </head>
+	
+  
+<body>
+<div>
+<!--		<h1><a href="”#”">Ski Europe</a></h1> -->
+		<div>
+        <div class="row"  id="header">
+            <div>  skifacts.net</div>
+            <div class="col-md-8"></div>
+            <div class="col-md-2" id="social_media" align = "right">
+			<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.skifacts.net/ski_resort_charts.html" data-text="Check skifacts.net. Visualisation and comparison of European ski resorts" data-via="PeteElvidge">Tweet</a>
+				<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+			
+			
+			<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.skifacts.net%2Fski_resort_charts.html&amp;width=100&amp;layout=button_count&amp;action=like&amp;show_faces=true&amp;share=false&amp;height=21&amp;appId=378747535548886" scrolling="no" frameborder="0" style="border:none; overflow:hidden; 							width:100px; height:21px;" allowTransparency="true"></iframe></div>
+        </div><br>
+    <div class="row" id="main_row">
+		    <div id="lhs" class="col-md-2">
+<!--	  <div id="layer_selector" class="cartodb-infobox">           // original used cartodbinfobox` class -->
+          <div class="control_box" color="'ffffff">
+      		    Filter ski resorts
+              <form>
+                  <input type="checkbox" checked name="checkbox_france" id="checkbox_austria"> Austria <div class="legend_austria"></div><br>
+                  <input type="checkbox" checked name="checkbox_austria" id="checkbox_france"> France <div class="legend_france"></div><br>
+                  <input type="checkbox" checked name="checkbox_italy"  id="checkbox_italy" value="Y"> Italy <div class="legend_italy"></div><br>
+                  <input type="checkbox" checked name="checkbox_switzerland" id="checkbox_switzerland"> Switzerland <div class="legend_switzerland"></div><br>
+              </form>
+
+              <form action="" align="left">
+                <font color="#000000">black runs : </font> 
+                <select name="blacks" id="blacks">                                            <!-- black runs drop down -->
+                  <option value=" black_runs >= 0 ">any</option>
+                  <option value=" black_runs >= 5 ">at least 5</option>
+                  <option value=" black_runs >= 10 ">at least 10</option>
+                  <option value=" black_runs >= 20 ">at least 20</option>
+                </select>
+              </form>
+
+              <form action=""  align="left">                                                  <!-- red runs drop down -->
+                <font color="#ff0000">red runs : </font> 
+                <select name="reds" id="reds"> 
+                  <option value=" red_runs >= 0 ">any</option>
+                  <option value=" red_runs >= 10 ">at least 10</option>
+                  <option value=" red_runs >= 30 ">at least 30</option>
+                  <option value=" red_runs >= 50 ">at least 50</option>
+                </select>
+              </form>
+
+              <form action=""  align="left">                                                  <!-- blue runs drop down -->
+                <font color="#0000ff">blue runs : </font> 
+                <select name="blues" id="blues"> 
+                  <option value=" blue_runs >= 0 ">any</option>
+                  <option value=" blue_runs >= 10 ">at least 10</option>
+                  <option value=" blue_runs >= 20 ">at least 20</option>
+                  <option value=" blue_runs >= 30 ">at least 30</option>
+                </select>
+              </form>
+
+              <form action=""  align="left">                                                  <!-- green runs drop down -->
+                <font color="#00ff00">green runs : </font> 
+                <select name="greens" id="greens"> 
+                  <option value=" green_runs >= 0 ">any</option>
+                  <option value=" green_runs >= 5 ">at least 5</option>
+                  <option value=" green_runs >= 10 ">at least 10</option>
+                  <option value=" green_runs >= 15 ">at least 15</option>
+                </select>
+              </form>
+
+              <form action=""  align="left">                                                  <!-- cross country runs drop down -->
+              <font color="#ffffff">cross country : </font> 
+              <select name="crosscountry" id="crosscountry"> 
+                  <option value=" cc_km >= 0 ">any</option>
+                  <option value=" cc_km >= 25 ">at least 25km</option>
+                  <option value=" cc_km >= 50 ">at least 50km</option>
+                  <option value=" cc_km >= 100 ">at least 100km</option>
+                </select>
+              </form>
+
+              <form>
+                  <input type="checkbox" id="checkbox_airports" onclick="show_airports()"> Show airports <br>
+              </form>
+              <br>
+              <form>
+                  <input type="checkbox" id="checkbox_names" onclick="show_names()"> Show resort names <br>
+              </form>
+    				</div>
+
+            <div class="control_box">
+               Display
+              <form action=""  align="left">            			                                <!-- chart type drop down -->
+               chart : 
+               <select id="chart_type"> 
+                 <option value="1">max vertical drop </option>
+                 <option value="2">resort_altitude</option>
+                 <option value="3">number of runs by colour</option>
+                 <option value="4">cross country (km)</option>
+               </select>
+             </form>
+
+              <form action=""  align="left">			                                           <!-- sort by drop down -->
+               sort by :  
+               <select id="sort_by"> 
+                 <option value=" name ">alphabetic</option>
+                 <option value=" country, name ">country</option>
+               </select>
+             </form>
+
+ 		    </div>
+            <form action="" align="left">                                                          <!-- refresh button -->
+               <input type="button" value="Refresh Display" id="refresh_button" onclick="refresh()">
+            </form>
+
+          </div>
+		        <div id="map" class="col-md-8" ></div>
+		        <div id="ads_top_right" class="col-md-2" >
+
+               <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+              <!-- skifacts main page wide skyscraper -->
+              <ins class="adsbygoogle"
+                style="display:inline-block;width:160px;height:600px"
+                data-ad-client="ca-pub-0521288592411624"
+                data-ad-slot="3517894111"></ins>
+              <script>
+              (adsbygoogle = window.adsbygoogle || []).push({});
+              </script>
+
+              </div>
+	     	 </div>
+			<div class="row">
+		        <div id="lhs2" class="col-md-2">  </div>
+		        <div id="chart" class="col-md-8"></div>
+		        <div class="rhs"></div>
+	     	</div>
+		</div>
+	</div>
+  <script>
+
+    var subLayer;
+    var layer_aiports;
+    var css;
+
+    function show_airports() 
+      {
+
+        cb = document.getElementById("checkbox_airports");
+        if(cb.checked) 
+          {layer_aiports.show()}
+        else
+          {layer_aiports.hide() };
+      }
+      
+    function show_names() 
+      {
+        cb = document.getElementById("checkbox_names");
+        if(cb.checked) 
+          {css = "#resorts{"      +
+              "marker-file: url(https://s3.amazonaws.com/com.cartodb.users-assets." +
+              "production/production/pelvige/assets/20140118130730skier4.png);" + 
+              "marker-opacity: 1;"      +
+              "marker-line-color: #000000;"      +
+              "marker-line-width: 1;"      +
+              "marker-line-opacity: 0.6;"      +
+              "marker-placement: point;"      +
+              "marker-type: ellipse;"      +
+              "marker-width: 21.5;"      +
+              "marker-allow-overlap: true;"      +
+            "}"      +
+
+              "#resorts::labels {"      +
+              "text-name: [name];"      +
+              "text-face-name: 'DejaVu Sans Book';"      +
+              "text-size: 10;"      +
+              "text-label-position-tolerance: 0;"      +
+              "text-fill: #000;"      +
+              "text-halo-fill: #FFF;"      +
+              "text-halo-radius: 1;"      +
+              "text-dy: -21.5;"      +
+              "text-allow-overlap: true;"      +
+              "text-placement: point;"      +
+              "text-placement-type: dummy;"      +
+            "}"
+          }
+        else
+          {css = "#resorts{"      +
+              "marker-file: url(https://s3.amazonaws.com/com.cartodb.users-assets." +
+              "production/production/pelvige/assets/20140118130730skier4.png);" + 
+              "marker-opacity: 1;"      +
+              "marker-line-color: #000000;"      +
+              "marker-line-width: 1;"      +
+              "marker-line-opacity: 0.6;"      +
+              "marker-placement: point;"      +
+              "marker-type: ellipse;"      +
+              "marker-width: 21.5;"      +
+              "marker-allow-overlap: true;"      +
+          "}"
+        };
+        subLayer.setCartoCSS(css);
+      }
+
+    function refresh() {
+
+//          var whereclause = "select name, max_alt from resorts where (country = 'ZZ' "
+      var whereclause = "select * from resorts where (country = 'ZZ' "
+
+//        append selected countries
+
+      cb = document.getElementById("checkbox_france");
+      if(cb.checked) {whereclause += " or country = 'FR'";};
+
+      cb = document.getElementById("checkbox_italy");
+      if(cb.checked) {whereclause += " or country = 'IT'";};
+
+      cb = document.getElementById("checkbox_austria");
+      if(cb.checked) {whereclause += " or country = 'AU'";};
+
+      cb = document.getElementById("checkbox_switzerland");
+      if(cb.checked) {whereclause += " or country = 'SW'";};
+
+//        append selected runs to the where clause
+
+      runs = document.getElementById("blacks");
+          whereclause += ") and (" + runs.options[runs.selectedIndex].value;      // append selected black runs to the where clause
+
+      runs = document.getElementById("reds");
+          whereclause += ") and (" + runs.options[runs.selectedIndex].value;      // append selected red runs to the where clause
+
+      runs = document.getElementById("blues");
+          whereclause += ") and (" + runs.options[runs.selectedIndex].value;      // ditto
+
+      runs = document.getElementById("greens");
+          whereclause += ") and (" + runs.options[runs.selectedIndex].value;      // ditto
+
+      runs = document.getElementById("crosscountry");
+          whereclause += ") and (" + runs.options[runs.selectedIndex].value;
+
+          whereclause += ") ";
+
+          dd = document.getElementById("sort_by");
+          whereclause += " order by " + dd.options[dd.selectedIndex].value;
+          subLayer.setSQL(whereclause);
+
+          // retrieve data returned by the current filter
+
+          var svg_width   = 980;
+          var svg_height  = 260;
+          var chart_height= 220;
+          var highest_elevation = 3000;
+          var lowest_elevation = 500;
+          var textlabels  = new Array();
+        //  var max_alt     = new Array();
+          var vertical_drop = new Array();
+          var resort_alt  = new Array();
+          var chart_max_m = 3500;
+          var chart_min_m = 500;
+          var resort_data = {max_alt: 0,vertical: 0, name: ""};
+          var resort_data_array = new Array();
+          var chart_range = highest_elevation - lowest_elevation;
+          var chart_range_m = chart_max_m - chart_min_m;
+          var resort_label_size = "12px";
+
+          var sql = new cartodb.SQL({ user: 'pelvige' });
+          sql.execute(whereclause)
+            .done(function(data) 
+               {
+                bar_colours = {'AU': '#F53136','FR': '#09A2E9','IT': '#DDDB14','SW': '#FBECEC'};
+                if (data.total_rows > 60)
+                  {resort_label_size = "10px";
+                  };
+                var bar_colour;
+                for (var i = 0; i < data.total_rows; i++) 
+                  {
+                     textlabels[i] = data.rows[i].name;
+                     bar_colour = bar_colours[data.rows[i].country]
+                     resort_data_array.push(
+                      {
+                        max_alt: data.rows[i].max_alt, 
+                        vertical: data.rows[i].vertical, 
+                        fill: bar_colour,
+                        name: data.rows[i].name,
+                        black_runs: data.rows[i].black_runs,
+                        red_runs: data.rows[i].red_runs,
+                        blue_runs: data.rows[i].blue_runs,
+                        green_runs: data.rows[i].green_runs,
+                        resort_alt: data.rows[i].resort_alt,
+                        cc_km: data.rows[i].cc_km
+                      });
+                  };
+
+          // delete any previous svg elements
+
+              var bar_width = svg_width / data.total_rows - 1;    
+              var chart_element = document.getElementById("chart");
+              if (chart_element.hasChildNodes()) 
+                {
+                  while ( chart_element.firstChild ) chart_element.removeChild( chart_element.firstChild );
+                };
+
+              var svg = d3.select("#chart")                                     // append svg placeholder element to chart
+                          .append("svg")
+                          .attr("width", svg_width)   
+                          .attr("height", svg_height); 
+    
+              ct = document.getElementById("chart_type");
+              if (ct.selectedIndex == 2)                                      // stacked bar required
+                {
+                  var max_runs = 250; 
+                  var yScale = d3.scale.linear()                                      // create a Y axis for number of runs
+                                 .domain([max_runs, 0])
+                                 .range([0, chart_height]);
+
+                 svg.selectAll("greens")                                              // add green run stack
+                    .data(resort_data_array)
+                    .enter()
+                    .append("rect")
+                    .attr("width",bar_width)
+                    .attr("x", function (d,i) { return (i * (bar_width + 1) + 40)})
+                    .attr("fill", "green")
+                    .attr("y", function (d,i) { return (chart_height - (d.green_runs)/max_runs * chart_height )})
+                    .attr("height",function (d,i) { return d.green_runs/max_runs * chart_height });
+
+                 svg.selectAll("blues")                                              // add blue run stack
+                    .data(resort_data_array)
+                    .enter()
+                    .append("rect")
+                    .attr("width",bar_width)
+                    .attr("x", function (d,i) { return (i * (bar_width + 1) + 40)})
+                    .attr("fill", "blue")
+                    .attr("y", function (d,i) { return (chart_height - (d.blue_runs + d.green_runs)/max_runs * chart_height )})
+                    .attr("height",function (d,i) { return d.blue_runs/max_runs * chart_height });
+
+                 svg.selectAll("reds")                                              // add red run stack
+                    .data(resort_data_array)
+                    .enter()
+                    .append("rect")
+                    .attr("width",bar_width)
+                    .attr("x", function (d,i) { return (i * (bar_width + 1) + 40)})
+                    .attr("fill", "red")
+                    .attr("y", function (d,i) { return (chart_height - (d.red_runs + d.blue_runs + d.green_runs)/max_runs * chart_height )})
+                    .attr("height",function (d,i) { return d.red_runs/max_runs * chart_height});
+
+                 svg.selectAll("blacks")                                           // add black run stack
+                    .data(resort_data_array)
+                    .enter()
+                    .append("rect")
+                    .attr("width",bar_width)
+                    .attr("x", function (d,i) { return (i * (bar_width + 1) + 40)})
+                    .attr("fill", "black")
+                    .attr("y", function (d,i) { return (chart_height - (d.black_runs + d.red_runs + d.blue_runs + d.green_runs)/max_runs * chart_height )})
+                    .attr("height",function (d,i) { return d.black_runs/max_runs * chart_height });
+                }
+              else
+                {
+
+                if (ct.selectedIndex == 3)                                        // cross country chart required
+                {
+                 var yScale = d3.scale.linear()                          
+                                 .domain([300, 0])
+                                 .range([0, chart_height])}
+                else                                                              // stacked bar required
+                {
+                 var yScale = d3.scale.linear()                                   // create a Y axis for the altitude range
+                                 .domain([chart_max_m, chart_min_m])
+                                 .range([0, chart_height])
+                };
+                 var bars =svg.selectAll("rect")                                  // add a rectangle to svg for every resort 
+                              .data(resort_data_array)
+                             .enter()
+                             .append("rect")
+                             .attr("width",bar_width)
+                             .attr("x", function (d,i) { return (i * (bar_width + 1) + 40)})
+                             .attr("fill", function (d,i) { return d.fill });
+
+                switch(ct.selectedIndex)                                  // attribute the bars to deliver the requested chart type
+                  {
+                    case 0:                                                       // vertical drop chart default
+
+                      bars.attr("y", function (d,i) { return (chart_max_m - d.max_alt)/chart_range_m * chart_height })
+                          .attr("height",function (d,i) { return d.vertical/chart_range_m * chart_height });
+                    break;
+                      
+                    case 1:                                                       // resort altitude
+
+                      bars.attr("y", function (d,i) { return (chart_max_m - d.resort_alt)/chart_range_m * chart_height })
+                          .attr("height",function (d,i) { return (d.resort_alt - lowest_elevation)/chart_range_m * chart_height });
+//                        .attr("height",bar_width);
+                    break;
+                    
+                    case 2:
+                      break;
+                    case 3:                                                       // cross country chart
+                        bars.attr("y", function (d,i) { return (300 - d.cc_km)/300 * chart_height })
+                          .attr("height",function (d,i) { return d.cc_km/300 * chart_height });
+                      break;
+                    default:
+                  };
+
+                };
+                 
+
+              // bars.attr("x", function (d,i) { return (i * bar_width + 40); })
+              //     .attr("y", function (d,i) { return svg_height - d.max_alt/chart_range * svg_height })
+              //     .attr("height",function (d,i) { return d.vertical/chart_range * svg_height })
+              //     .attr("width",bar_width - 1);
+
+              var txt = svg.selectAll("text")                             // create x axis resort labels
+                           .data(textlabels)
+                           .enter()
+                           .append("text")    
+                           .text(function (d,i) {return d})
+                           .attr("x",function (d,i) {return (i * (bar_width + 1)) + bar_width / 2 + 40;})
+                           .attr("y",chart_height)
+                           .attr("font-family", "Alegreya Sans")
+                           .attr("font-size", resort_label_size)
+                           .attr("fill", "white")
+                           .attr("style","writing-mode: tb;");
+    
+              var yAxis = d3.svg.axis()
+                        .scale(yScale)
+                        .orient("left")
+                        .ticks(5);
+
+              svg.append("g")
+                 .attr("class", "axis")
+                 .attr("transform", "translate(" + 40 + ",0)")
+                 .call(yAxis);            
+            })
+          .error(function(errors) {console.log("errors:" + errors)});
+          // var sql = new cartodb.SQL( {user: 'pelvige' });
+          // console.log(sql);
+        };
+  
+      function main() {
+        cartodb.createVis('map', 'http://pelvige.cartodb.com/api/v2/viz/2643f9d8-7b63-11e3-98b6-eb00634359da/viz.json', {
+          tiles_loader: true,
+          center_lat: 45,
+          center_lon: 6,
+          zoom: 6
+        })
+        .done(function(vis, layers) {
+          // layer 0 is the base layer, layer 1 is cartodb layer
+          subLayer = layers[1].getSubLayer(0);
+          layer_aiports = layers[1].getSubLayer(1);
+          layer_aiports.hide();
+          show_names();
+          refresh();
+        })
+        .error(function(err) {
+          console.log(err);
+        });
+      } 
+      window.onload = main;
+
+      </script>
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://code.jquery.com/jquery.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+<!--    <script src="js/bootstrap.min.js"></script> -->
+
+    <script src="http://libs.cartocdn.com/cartodb.js/v3/cartodb.js"></script>
+
+  </body>
+</html>
